@@ -1,4 +1,5 @@
-# fp
+# Fitness Passport locations
 
+ But easier to search and see which are free and which aren't.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Sv8Ovxe4VfWDM9dtkuFuJlDq38qEPUM&ehbc=2E312F" width="640" height="480"></iframe>
+[on google maps](https://www.google.com/maps/d/embed?mid=1Sv8Ovxe4VfWDM9dtkuFuJlDq38qEPUM&ehbc=2E312F)
